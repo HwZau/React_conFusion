@@ -1,0 +1,3 @@
+import React, { Component } from 'react'
+function Welcome(props
+                              return <h1>Hello,{
